@@ -1,4 +1,5 @@
-tabase storage engine using SQLAlchemy with a mysql+mysqldb database
+#!/usr/bin/python3
+"""Database storage engine using SQLAlchemy with a mysql+mysqldb database
 connection.
 """
 
